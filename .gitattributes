@@ -1,1 +1,2 @@
 *.nmslib filter=lfs diff=lfs merge=lfs -text
+*.nmslib.dat filter=lfs diff=lfs merge=lfs -text
