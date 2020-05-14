@@ -15,4 +15,4 @@ Just run it like this:
 python3 run.py
 ```
 
-Simple as this.
+Simple as this. It will show you the similarity index from [SearchLy](https://github.com/AlbertSuarez/searchly) with 10,000 random points by default.
